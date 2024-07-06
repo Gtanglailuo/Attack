@@ -1,0 +1,37 @@
+# 忽略所有.vs文件夹和.vsconfig文件
+.vs/
+.vsconfig
+
+# 忽略所有Assembly-CSharp.csproj文件
+Assembly-CSharp.csproj
+
+
+# 忽略所有Attack.sln文件
+Attack.sln
+
+# 忽略所有Library文件夹
+Library/
+
+# 忽略所有Logs文件夹
+Logs/
+
+# 忽略所有New Unity Project文件夹
+New Unity Project/
+
+# 忽略所有Packages文件夹
+Packages/
+
+# 忽略所有ProjectSettings文件夹
+ProjectSettings/
+
+# 忽略所有UserSettings文件夹
+UserSettings/
+
+# 忽略生成的数据和临时文件
+Temp/
+obj/
+# 忽略自动生成的协作文件夹
+CollabData/
+# 忽略所有.sln和.csproj文件
+*.sln
+*.csproj
